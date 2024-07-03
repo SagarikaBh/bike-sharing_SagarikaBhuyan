@@ -43,12 +43,11 @@ Significant variables to predict the demand for shared bikes
 
 - holiday
 - temp
-- Season (Specially Spring and Winter)
-- months(January, July, September, November, December)
+- Sept and Oct months
+- Season (Specially Spring)
+- Windspeed
 - Year (There is trend of year over year increase in demand in general)
-- Sunday
-- weathersit(<Clear, Few clouds, Partly cloudy, Partly cloudy and Mist> and <Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist>
-)
+- weathersit(<Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds>)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
